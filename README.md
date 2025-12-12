@@ -87,25 +87,25 @@ http://localhost:5173
 
 🧠 Assumptions
 
-The application is optimized for desktop screens as per the assignment requirements
+- The application is optimized for desktop screens as per the assignment requirements
 
-Exact spacing, typography, and colors were matched using the Figma specifications
+- Exact spacing, typography, and colors were matched using the Figma specifications
 
-No backend or API integration was required for this assignment
+- No backend or API integration was required for this assignment
 
 ⏱ Time Spent
 
-Figma analysis and layout planning: 1 hour
+- Figma analysis and layout planning: 1 hour
 
-UI development and styling: 4 hours
+- UI development and styling: 4 hours
 
-Refinement and interaction handling: 1 hour
+- Refinement and interaction handling: 1 hour
 
-Total Time: ~6 hours
+
 
 🚀 Deployment
 
-The application is deployed using Vercel to ensure fast and reliable hosting.
+- The application is deployed using Vercel to ensure fast and reliable hosting.
    
 
 
